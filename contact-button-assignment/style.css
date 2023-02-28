@@ -1,0 +1,28 @@
+body
+{
+    background-color:#97B1A6; 
+    text-align:center;
+}
+
+button { 
+    background-color:#EBBAB9;
+    color:#407076; 
+    font-family:'Merriweather', serif;
+    width:200px;
+    padding:10px;
+    margin:50px 0px 0px 0px;
+    border:none;
+    border-radius:10px;
+}
+    
+button:hover {
+    background-color:#C9C5BA;
+}
+
+h1 {
+    font-family: 'Karla', sans-serif;
+}
+
+h2 {
+font-family: 'Merriweather', serif;
+}
