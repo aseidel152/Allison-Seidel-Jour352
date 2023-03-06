@@ -1,0 +1,32 @@
+/*
+MY COLOR PALETTE
+Color 1 - #006D77
+Color 2 - #83C5BE
+Color 3 - #EDF6F9
+Color 4 - #FFDDD2
+Color 5 - #E29578
+*/
+
+body {
+    background-color:#EDF6F9 ;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Quicksand', sans-serif;
+    color:#006D77;
+    border: solid blue;
+    border-radius: 40px;
+    padding: 20px;
+    margin:auto;
+    
+
+}
+highlight {
+    color:#E29578;
+    font-weight:bold;
+}
