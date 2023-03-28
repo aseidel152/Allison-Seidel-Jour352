@@ -1,18 +1,17 @@
 .container-fluid{
     background-color:#CAF0F8;
     text-align: center;
-    font-size: 70px;
+    font-size: 60px;
     font-family: Plantagenet Cherokee
 }
 .container{
-    font-size: 60 px;
+    font-size: 30px;
     text-align: center;
     font-family: Plantagenet Cherokee;
     
     
 }
     
-}
 #headshot {
     width:300px;
     padding:0px;
@@ -28,15 +27,19 @@
     padding:10px 30px 10px 30px;
     text-transform:uppercase;
     margin:10px;
+    align-content: right;
 }
 
 #button a {
     color:white;
     text-decoration: none;
-    align-content: center
+    align-content: right;
 }
 button 
 {
     display:block;
     margin:auto;
+    margin: 20px 0px 20px 40px;
+    
+  
 }
