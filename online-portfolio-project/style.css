@@ -1,3 +1,4 @@
+@media {
 .container-fluid{
     background-color:#CAF0F8;
     text-align: center;
@@ -15,7 +16,8 @@
 #headshot {
     width:300px;
     padding:0px;
-    margin:20px 0px 20px 40px;
+    margin:10px 0px 0px 10px;
+    bordeR: 3px solid black;
     border-radius: 500px;
     
 }
@@ -41,5 +43,16 @@ button
     margin:auto;
     margin: 20px 0px 20px 40px;
     
-  
+
 }
+
+@media (min-width:576px){
+  #headshot {
+    margin:20px 0px 20px 40px;
+}  
+}
+    @media (min-width:992px) {
+        #headshot {
+            margin: 10px 0px 0px 10px;
+        }
+    }
