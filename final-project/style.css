@@ -1,9 +1,33 @@
 @media {
       
     .second {
-        width:100%;
+        width:80%;
+        height:auto;
+    }
+    h1 {
+    font-family:'Lora', serif;
+    font-size: 50px;
     }
     
+    h2 {
+    font-family:'Lora', serif;
+    font-size: 20px;
+    font-weight:bolder;
+    }
+    .emphasized {
+    font-style:italic;
+    }
+    
+    h3 {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    }
+    
+    .credit {
+    font-size:10px;
+    }
+{
+    }
 }
 
 @media (min-width:576px){
