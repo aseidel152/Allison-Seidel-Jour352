@@ -1,12 +1,13 @@
 @media {
       
     .second {
-        width:80%;
+        width:100%;
         height:auto;
     }
     h1 {
     font-family:'Lora', serif;
     font-size: 50px;
+    padding:20px 10px 10px 10px;
     }
     
     h2 {
@@ -26,7 +27,9 @@
     .credit {
     font-size:10px;
     }
-{
+
+    #content {
+    width:70%;
     }
 }
 
