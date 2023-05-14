@@ -5,13 +5,27 @@
         height:auto;
     }
 
-    .byline {
-    font-family:'Lora',serif;
+    byline {
+    font-family:'Lora', serif;
+    color:#5E7CE2;
+    font-weight:bolder;
+    font-size:18px;
     }
     
-    #date {
-    font-family: 'Lora', serif;
+    .newspaper {
+    font-family:'Lora', serif;
+    color:#5E7CE2;
+    font-weight:bolder;
+    font-size:18px;
     }
+    
+    .date {
+    font-family:'Lora', serif;
+    color:#5E7CE2;
+    font-weight:bolder;
+    font-size:18px;
+    }
+    
     h1 {
     font-family:'Lora', serif;
     font-size: 50px;
@@ -30,7 +44,10 @@
     
     h3 {
     font-family: 'Lora', serif;
-    font-size: 20px;
+    font-size: 30px;
+    font-weight:400;
+    font-weight:bolder
+    color:#9DBEBB;
     }
     
     .credit {
@@ -48,7 +65,7 @@
     }
 
     .cante {
-    width:50%;
+    width:70%;
     }
     
     
